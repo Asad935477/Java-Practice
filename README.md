@@ -1,7 +1,8 @@
 JAVA PRACTICE
 
 
-A Repository to Practice Java Programming Language
+A Repository to track progress of my Practice in Java Programming Language
+
 
 
 
